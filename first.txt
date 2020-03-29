@@ -1,3 +1,4 @@
+We are in child branch
 this is one change after commit
 thid id first line
 this is the second line
