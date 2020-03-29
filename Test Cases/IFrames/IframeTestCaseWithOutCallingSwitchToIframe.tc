@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IframeTestCaseWithOutCallingSwitchToIframe</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8853442-f95d-4767-b168-cbcc00da1a8e</testCaseGuid>
+   <variable>
+      <defaultValue>'https://devdojo.com/html/iframes'</defaultValue>
+      <description></description>
+      <id>5ee6e795-66d2-42d4-8405-82b327618e32</id>
+      <masked>false</masked>
+      <name>devDojoURL</name>
+   </variable>
+</TestCaseEntity>
